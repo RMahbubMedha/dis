@@ -1,0 +1,219 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    color: #545355;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+}
+
+header{
+    background:  white;
+    
+}
+.container{
+   width:1100px;
+   margin:0  auto;
+   overflow:hidden;
+
+
+}
+.logo{
+    width: 20%;
+    padding:40px 0px;
+    float:left; 
+}
+.logo img{
+    
+}
+.logo p{position: absolute;;
+right: 82%;
+top:10%;}
+.menu{
+   float:right;
+    width: 80%;
+    padding:40px 0px;
+       }   
+.menu ul{
+
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    
+}   
+
+.menu ul li{ padding: 8px;
+             text-align: right;
+
+            display: inline-block;
+
+            list-style: none}
+
+.curser img {  
+
+position:absolute;
+top: 11%;
+right: 25.5%}
+
+
+.container{width:1100px;
+   margin:0  auto;
+   overflow:hidden;
+
+ }
+
+.menu2{ width: 80%;
+    padding: 20px  0px 
+
+}
+.menu2 ul{margin: 0;
+    padding: 0;
+    text-align: left;
+    font-weight: 700
+}
+.menu2 ul li{list-style: none;
+    display: inline-block;
+}
+.menu2 ul li a{color: #24262b;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 10px;
+    display: block;
+    font-size:14px;
+    
+}
+
+
+.pic{
+    
+  height:100vh;
+}
+
+
+
+.image{position: absolute;
+    top: 56%;
+    right: 22%;
+
+
+}
+
+
+
+.para1{text-align: center;
+    height: 50vh;
+    padding: 15px;
+    text-transform: uppercase;
+    color: #6c767b;
+    background-color: white;
+    
+}
+
+.line{margin-top: -25px;
+
+}
+.line p{
+    padding:90px;
+}
+
+.work-button{
+    padding:0px;
+    margin:0 auto;
+    text-align:center;
+}
+.work-button a{
+     right:  50%;
+    transform: translate(50%,0);
+    position:  absolute;
+    text-transform:  uppercase;
+    text-decoration:  blink;
+    border: 2px solid #d0cac8;
+    padding: 10px 40px;
+    color: #fffefe;
+    background:#2ECC7B;
+        transition: all 1s;
+    }
+.para2{
+    
+    background: #182a32;
+    position: relative;
+    height: 110px;
+}
+
+
+.line2{color: wheat;
+    display: inline-block;
+    padding: 50px;
+}
+.left{color: wheat
+
+}
+.right{
+    padding:0px;
+    margin:0 auto;
+    text-align:center;
+}
+.right a{
+     right:  50%;
+    transform: translate(50%,0);
+    position:  absolute;
+    text-transform:  uppercase;
+    text-decoration:  blink;
+    border: 1px solid #d0cac8;
+    padding: 10px 40px;
+    color: #ffffff;
+    background:#2cc26b;
+    transition: all 1s;
+}
+
+
+footer{
+
+}
+.copyright {width: 20%;
+    float: left
+
+}
+nav{ float: left;
+    width: 80%
+
+
+
+ }
+ nav ul{
+    padding: 0;
+    text-align: right;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+}
+nav ul li a{color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0;
+    display: block;
+}
+.social {
+    text-align: center;
+}
+
+.social ul{
+}
+
+.social ul li{
+ list-style: none;
+    display: inline-block;
+}
+
+.social ul li a{}
+.social ul li a:hover{}
+
